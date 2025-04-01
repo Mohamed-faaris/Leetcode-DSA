@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0066-plus-one) |
 | [0238-product-of-array-except-self](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
