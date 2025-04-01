@@ -7,8 +7,10 @@ public:
             carry = sum/10;
             digits[i--] = sum%10;
         }
-        if(carry) digits.insert(digits.begin(), 1);
-
+        if(carry) {
+            digits.push_back(0);
+            digits[0] = 1;
+        }
         return digits;
     }
 };
