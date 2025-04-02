@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1833-find-the-highest-altitude](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
+| [1833-find-the-highest-altitude](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1833-find-the-highest-altitude) |
 ## Greedy
 |  |
 | ------- |
