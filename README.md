@@ -87,4 +87,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0258-add-digits) |
+## Tree
+|  |
+| ------- |
+| [0437-path-sum-iii](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0437-path-sum-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0437-path-sum-iii](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0437-path-sum-iii) |
+## Binary Tree
+|  |
+| ------- |
+| [0437-path-sum-iii](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0437-path-sum-iii) |
 <!---LeetCode Topics End-->
