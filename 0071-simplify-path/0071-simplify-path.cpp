@@ -11,7 +11,7 @@ public:
             else res.push_back(path);
         }
         string result;
-        for (const string& comp : res) {
+        for (string comp : res) {
             result += "/" + comp;
         }
 
