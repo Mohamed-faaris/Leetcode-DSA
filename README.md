@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0071-simplify-path) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0392-is-subsequence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0112-path-sum) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
