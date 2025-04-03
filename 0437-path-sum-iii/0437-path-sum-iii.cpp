@@ -30,6 +30,7 @@ public:
         dfs(count,root->left,sum,targetSum);
         dfs(count,root->right,sum,targetSum);
         fMap[sum] -= 1;
+        if(fMap[sum]==0) fMap.erase(sum);
     }
     int pathSum(TreeNode* root, int targetSum) {
         int count = 0;
