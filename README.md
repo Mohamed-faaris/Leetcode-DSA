@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0735-asteroid-collision) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1319-unique-number-of-occurrences) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1833-find-the-highest-altitude](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
