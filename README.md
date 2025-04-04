@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0392-is-subsequence) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Simulation
 |  |
@@ -96,16 +97,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0112-path-sum) |
 | [0437-path-sum-iii](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0437-path-sum-iii) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0112-path-sum) |
 | [0437-path-sum-iii](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0437-path-sum-iii) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0112-path-sum) |
 | [0437-path-sum-iii](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0437-path-sum-iii) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
