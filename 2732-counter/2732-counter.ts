@@ -1,7 +1,6 @@
 function createCounter(n: number): () => number {
-    let count = n - 1
     return function() {
-        return count += 1
+        return n++
     }
 }
 
