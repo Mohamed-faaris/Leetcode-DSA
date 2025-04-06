@@ -5,11 +5,10 @@ interface Array<T> {
 
 Array.prototype.groupBy = function(this,fn) {
     let obj = {}
-    for(const value of this)
+    for(const elem of this)
     {
-        const key = fn(value)
-        if(!obj[key]) obj[key] = []
-        obj[key].push(value)
+        const key = fn(elem)
+        obj[key] ? obj[key].push(elem) : obj[key] = [elem]
     }
     return obj
 }
