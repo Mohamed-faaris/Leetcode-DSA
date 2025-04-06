@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2413-smallest-number-in-infinite-set) |
 ## Heap (Priority Queue)
 |  |
@@ -144,4 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2413-smallest-number-in-infinite-set) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
