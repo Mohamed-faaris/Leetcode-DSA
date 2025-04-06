@@ -3,15 +3,17 @@ interface Array<T> {
 }
 
 
-Array.prototype.groupBy = function(this,fn) {
-    let obj = {}
-    for(const elem of this)
-    {
-        const key = fn(elem)
-        obj[key] ? obj[key].push(elem) : obj[key] = [elem]
-    }
-    return obj
-}
+Array.prototype.groupBy = function(fn) {
+    const result: any = {};
+    this.forEach((item) => {
+        const key = fn(item);
+        if (!result[key]) {
+            result[key] = [];
+        }
+        result[key].push(item);
+    });
+    return result;
+};
 
 /**
  * [1,2,3].groupBy(String) // {"1":[1],"2":[2],"3":[3]}
