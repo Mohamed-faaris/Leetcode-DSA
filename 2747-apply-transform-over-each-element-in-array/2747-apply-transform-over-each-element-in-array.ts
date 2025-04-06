@@ -1,3 +1,7 @@
 function map(arr: number[], fn: (n: number, i: number) => number): number[] {
-    return (arr.map((x,i)=>fn(x,i)));
+    const returnedArray: number[] = [];
+    for (let i=0; i < arr.length; i++) {
+        returnedArray.push(fn(arr[i], i));
+    }
+    return returnedArray;
 };
