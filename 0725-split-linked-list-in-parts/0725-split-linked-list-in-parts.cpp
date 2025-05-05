@@ -23,8 +23,7 @@ public:
         result.push_back(cur); 
         while(cur != nullptr)
         {
-            if(i == (len+k)/k -1 + (((len%k)<result.size())?0:1)) {
-                //cout<<(((len%k)<result.size())?0:1)<<" ";
+            if(i == (len+k)/k - (((len%k)<result.size())?1:0)) {
                 i = 0;
                 prev -> next = nullptr;
                 result.push_back(cur); 
