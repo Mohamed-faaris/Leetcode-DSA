@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0725-split-linked-list-in-parts) |
 ## Math
 |  |
 | ------- |
