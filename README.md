@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2571-find-the-pivot-integer) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0649-dota2-senate) |
+| [2715-k-items-with-the-maximum-sum](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Binary Search
 |  |
 | ------- |
