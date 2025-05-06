@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2238-a-number-after-a-double-reversal](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2238-a-number-after-a-double-reversal) |
 | [2491-smallest-even-multiple](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2556-convert-the-temperature) |
+| [2571-find-the-pivot-integer](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2571-find-the-pivot-integer) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Recursion
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1833-find-the-highest-altitude) |
+| [2571-find-the-pivot-integer](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2571-find-the-pivot-integer) |
 ## Greedy
 |  |
 | ------- |
