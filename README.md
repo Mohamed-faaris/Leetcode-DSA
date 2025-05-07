@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [1349-check-if-it-is-a-straight-line](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1349-check-if-it-is-a-straight-line) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Brainteaser
 |  |
