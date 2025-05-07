@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1642-water-bottles) |
 | [2083-three-divisors](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2083-three-divisors) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2238-a-number-after-a-double-reversal) |
