@@ -16,6 +16,6 @@ public:
             dSum += digitSum(num);
             eSum += num;
         }
-        return abs(dSum-eSum);
+        return -dSum+eSum;
     }
 };
