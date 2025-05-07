@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0735-asteroid-collision) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1319-unique-number-of-occurrences) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0342-power-of-four) |
 | [1086-divisor-game](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1630-count-odd-numbers-in-an-interval-range) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0649-dota2-senate) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2663-distribute-money-to-maximum-children](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2663-distribute-money-to-maximum-children) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Binary Search
