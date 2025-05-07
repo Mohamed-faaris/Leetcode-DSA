@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0258-add-digits) |
+| [0342-power-of-four](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0342-power-of-four) |
 | [1086-divisor-game](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
+| [0342-power-of-four](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0394-decode-string) |
 ## Two Pointers
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0461-hamming-distance) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Enumeration
