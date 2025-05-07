@@ -4,7 +4,6 @@ public:
         int n = 0,rem;
         while(numBottles>=numExchange)
         {
-            cout << numBottles <<" ";
             rem = numBottles%numExchange;
             n  += numBottles - rem;
             numBottles = rem + numBottles/numExchange;
