@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1833-find-the-highest-altitude](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1833-find-the-highest-altitude) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2238-a-number-after-a-double-reversal](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2238-a-number-after-a-double-reversal) |
 | [2491-smallest-even-multiple](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2507-number-of-common-factors) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2556-convert-the-temperature](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2571-find-the-pivot-integer) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2575-minimum-cuts-to-divide-a-circle) |
