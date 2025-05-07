@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2083-three-divisors](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2083-three-divisors) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2238-a-number-after-a-double-reversal) |
 | [2491-smallest-even-multiple](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2556-convert-the-temperature) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0258-add-digits) |
+| [2083-three-divisors](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2491-smallest-even-multiple) |
 ## Tree
 |  |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
