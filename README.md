@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0342-power-of-four](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0461-hamming-distance) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Enumeration
 |  |
