@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-convert-the-temperature](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2556-convert-the-temperature) |
 | [2571-find-the-pivot-integer](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2571-find-the-pivot-integer) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2748-calculate-delayed-arrival-time](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2748-calculate-delayed-arrival-time) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2955-account-balance-after-rounded-purchase) |
