@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1833-find-the-highest-altitude](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1833-find-the-highest-altitude) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-find-the-pivot-integer](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2571-find-the-pivot-integer) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2663-distribute-money-to-maximum-children](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2663-distribute-money-to-maximum-children) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2748-calculate-delayed-arrival-time](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2748-calculate-delayed-arrival-time) |
