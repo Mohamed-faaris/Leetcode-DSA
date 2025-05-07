@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0066-plus-one) |
+| [0168-excel-sheet-column-title](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0342-power-of-four) |
 | [1086-divisor-game](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1086-divisor-game) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0071-simplify-path) |
+| [0168-excel-sheet-column-title](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0394-decode-string) |
