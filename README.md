@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0012-integer-to-roman) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1319-unique-number-of-occurrences](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0258-add-digits) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0012-integer-to-roman) |
 | [0071-simplify-path](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0071-simplify-path) |
 | [0168-excel-sheet-column-title](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
