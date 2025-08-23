@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0210-course-schedule-ii) |
+| [3189-find-champion-ii](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/3189-find-champion-ii) |
 ## Topological Sort
 |  |
 | ------- |
