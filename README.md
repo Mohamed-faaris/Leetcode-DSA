@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1635-number-of-good-pairs](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1635-number-of-good-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1833-find-the-highest-altitude) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1635-number-of-good-pairs](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1635-number-of-good-pairs) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2413-smallest-number-in-infinite-set) |
 ## Linked List
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0437-path-sum-iii) |
 | [0617-merge-two-binary-trees](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0617-merge-two-binary-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0437-path-sum-iii) |
 | [0617-merge-two-binary-trees](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0617-merge-two-binary-trees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Breadth-First Search
 |  |
 | ------- |
