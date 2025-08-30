@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0012-integer-to-roman) |
 | [0071-simplify-path](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0071-simplify-path) |
 | [0168-excel-sheet-column-title](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0168-excel-sheet-column-title) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0394-decode-string) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0112-path-sum) |
 | [0210-course-schedule-ii](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0463-island-perimeter) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0969-number-of-recent-calls](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0969-number-of-recent-calls) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2413-smallest-number-in-infinite-set) |
 ## Heap (Priority Queue)
@@ -290,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0669-trim-a-binary-search-tree](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0669-trim-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
