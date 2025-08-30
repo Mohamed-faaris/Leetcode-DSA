@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1635-number-of-good-pairs](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1635-number-of-good-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1833-find-the-highest-altitude) |
+| [2139-detect-squares](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2139-detect-squares) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1635-number-of-good-pairs](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1635-number-of-good-pairs) |
+| [2139-detect-squares](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2139-detect-squares) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2413-smallest-number-in-infinite-set) |
 ## Linked List
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0969-number-of-recent-calls](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0969-number-of-recent-calls) |
+| [2139-detect-squares](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2139-detect-squares) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2413-smallest-number-in-infinite-set) |
 ## Heap (Priority Queue)
 |  |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1635-number-of-good-pairs) |
+| [2139-detect-squares](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2139-detect-squares) |
 ## Graph
 |  |
 | ------- |
