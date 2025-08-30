@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0735-asteroid-collision) |
+| [0794-swim-in-rising-water](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0617-merge-two-binary-trees) |
 | [0669-trim-a-binary-search-tree](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0794-swim-in-rising-water) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0463-island-perimeter) |
 | [0617-merge-two-binary-trees](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0794-swim-in-rising-water) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Stack
 |  |
@@ -227,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0794-swim-in-rising-water) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2413-smallest-number-in-infinite-set) |
 ## Ordered Set
 |  |
@@ -284,10 +289,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0794-swim-in-rising-water) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0794-swim-in-rising-water) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Search Tree
 |  |
