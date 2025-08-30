@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0258-add-digits) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0071-simplify-path) |
 | [0168-excel-sheet-column-title](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1642-water-bottles) |
