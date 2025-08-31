@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0332-reconstruct-itinerary](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0332-reconstruct-itinerary) |
 | [0437-path-sum-iii](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0437-path-sum-iii) |
 | [0463-island-perimeter](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0463-island-perimeter) |
 | [0606-construct-string-from-binary-tree](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0606-construct-string-from-binary-tree) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0210-course-schedule-ii) |
+| [0332-reconstruct-itinerary](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0332-reconstruct-itinerary) |
 | [3189-find-champion-ii](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/3189-find-champion-ii) |
 ## Topological Sort
 |  |
@@ -311,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
