@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2476-check-distances-between-same-letters](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2476-check-distances-between-same-letters) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2413-smallest-number-in-infinite-set) |
 | [2476-check-distances-between-same-letters](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2476-check-distances-between-same-letters) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2685-first-completely-painted-row-or-column) |
 ## Linked List
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0794-swim-in-rising-water) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
