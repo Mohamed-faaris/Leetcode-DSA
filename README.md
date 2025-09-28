@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0012-integer-to-roman) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1319-unique-number-of-occurrences](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0002-add-two-numbers) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0725-split-linked-list-in-parts) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0027-remove-element) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
