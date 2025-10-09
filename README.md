@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0258-add-digits) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0062-unique-paths) |
 | [0392-is-subsequence](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0392-is-subsequence) |
 | [1086-divisor-game](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1086-divisor-game) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -338,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0183-customers-who-never-order) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
