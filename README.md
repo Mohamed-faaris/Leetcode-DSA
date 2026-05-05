@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0735-asteroid-collision) |
 | [0794-swim-in-rising-water](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0794-swim-in-rising-water) |
+| [0917-boats-to-save-people](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1319-unique-number-of-occurrences) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0647-palindromic-substrings) |
+| [0917-boats-to-save-people](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0917-boats-to-save-people) |
 ## String
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0376-wiggle-subsequence) |
 | [0605-can-place-flowers](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0649-dota2-senate) |
+| [0917-boats-to-save-people](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0917-boats-to-save-people) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2663-distribute-money-to-maximum-children](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2663-distribute-money-to-maximum-children) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2715-k-items-with-the-maximum-sum) |
@@ -365,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0062-unique-paths) |
+## Sorting
+|  |
+| ------- |
+| [0917-boats-to-save-people](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0917-boats-to-save-people) |
 <!---LeetCode Topics End-->
