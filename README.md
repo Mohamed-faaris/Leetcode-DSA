@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1635-number-of-good-pairs](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1635-number-of-good-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1833-find-the-highest-altitude) |
+| [1972-rotating-the-box](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1972-rotating-the-box) |
 | [2139-detect-squares](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2139-detect-squares) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2476-check-distances-between-same-letters](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2476-check-distances-between-same-letters) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0647-palindromic-substrings) |
 | [0917-boats-to-save-people](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0917-boats-to-save-people) |
+| [1972-rotating-the-box](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1972-rotating-the-box) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## String
 |  |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0794-swim-in-rising-water) |
+| [1972-rotating-the-box](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1972-rotating-the-box) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
