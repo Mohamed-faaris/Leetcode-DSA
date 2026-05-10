@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0012-integer-to-roman) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0807-custom-sort-string](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0807-custom-sort-string) |
 | [0940-fruit-into-baskets](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0940-fruit-into-baskets) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0535-encode-and-decode-tinyurl) |
 | [0606-construct-string-from-binary-tree](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0606-construct-string-from-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0649-dota2-senate) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0535-encode-and-decode-tinyurl) |
 | [0969-number-of-recent-calls](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0969-number-of-recent-calls) |
 | [2139-detect-squares](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2139-detect-squares) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2413-smallest-number-in-infinite-set) |
@@ -396,4 +399,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0807-custom-sort-string](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0807-custom-sort-string) |
 | [0917-boats-to-save-people](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0917-boats-to-save-people) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
