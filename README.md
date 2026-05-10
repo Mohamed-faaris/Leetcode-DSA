@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1484-linked-list-in-binary-tree) |
+| [1731-even-odd-tree](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1731-even-odd-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0669-trim-a-binary-search-tree](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0669-trim-a-binary-search-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1484-linked-list-in-binary-tree) |
+| [1731-even-odd-tree](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1731-even-odd-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Breadth-First Search
 |  |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0617-merge-two-binary-trees) |
 | [0733-flood-fill](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0794-swim-in-rising-water) |
+| [1731-even-odd-tree](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1731-even-odd-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Stack
 |  |
