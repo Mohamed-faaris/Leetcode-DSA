@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2390-naming-a-company](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2390-naming-a-company) |
 | [2476-check-distances-between-same-letters](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2476-check-distances-between-same-letters) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1642-water-bottles) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Number Theory
 |  |
 | ------- |
