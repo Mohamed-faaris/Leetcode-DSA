@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2139-detect-squares](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2139-detect-squares) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2390-naming-a-company](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2390-naming-a-company) |
+| [2465-shifting-letters-ii](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2465-shifting-letters-ii) |
 | [2476-check-distances-between-same-letters](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2476-check-distances-between-same-letters) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2390-naming-a-company](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2390-naming-a-company) |
+| [2465-shifting-letters-ii](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2465-shifting-letters-ii) |
 | [2476-check-distances-between-same-letters](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2476-check-distances-between-same-letters) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Sliding Window
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0878-shifting-letters) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1833-find-the-highest-altitude) |
+| [2465-shifting-letters-ii](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2465-shifting-letters-ii) |
 | [2571-find-the-pivot-integer](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2571-find-the-pivot-integer) |
 ## Greedy
 |  |
