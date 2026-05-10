@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1972-rotating-the-box) |
 | [2139-detect-squares](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2139-detect-squares) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2390-naming-a-company](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2390-naming-a-company) |
 | [2476-check-distances-between-same-letters](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2476-check-distances-between-same-letters) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1635-number-of-good-pairs) |
 | [2139-detect-squares](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2139-detect-squares) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2390-naming-a-company](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2390-naming-a-company) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2413-smallest-number-in-infinite-set) |
 | [2476-check-distances-between-same-letters](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2476-check-distances-between-same-letters) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2685-first-completely-painted-row-or-column) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0649-dota2-senate) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2390-naming-a-company](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2390-naming-a-company) |
 | [2476-check-distances-between-same-letters](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2476-check-distances-between-same-letters) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Sliding Window
@@ -321,10 +324,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2390-naming-a-company](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2390-naming-a-company) |
 ## Enumeration
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2083-three-divisors) |
+| [2390-naming-a-company](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2390-naming-a-company) |
 | [2507-number-of-common-factors](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2507-number-of-common-factors) |
 ## Counting
 |  |
