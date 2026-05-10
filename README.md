@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0735-asteroid-collision) |
 | [0794-swim-in-rising-water](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0794-swim-in-rising-water) |
+| [0878-shifting-letters](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0878-shifting-letters) |
 | [0917-boats-to-save-people](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0917-boats-to-save-people) |
 | [0940-fruit-into-baskets](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0649-dota2-senate) |
 | [0807-custom-sort-string](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0807-custom-sort-string) |
+| [0878-shifting-letters](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0878-shifting-letters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1197-parsing-a-boolean-expression](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1197-parsing-a-boolean-expression) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0724-find-pivot-index) |
+| [0878-shifting-letters](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0878-shifting-letters) |
 | [1046-max-consecutive-ones-iii](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1833-find-the-highest-altitude) |
 | [2571-find-the-pivot-integer](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2571-find-the-pivot-integer) |
