@@ -300,12 +300,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0445-add-two-numbers-ii) |
 | [0735-asteroid-collision](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0937-online-stock-span) |
 | [1197-parsing-a-boolean-expression](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1197-parsing-a-boolean-expression) |
 ## Design
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0535-encode-and-decode-tinyurl) |
+| [0937-online-stock-span](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0969-number-of-recent-calls) |
 | [2139-detect-squares](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2139-detect-squares) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2413-smallest-number-in-infinite-set) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0937-online-stock-span](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0969-number-of-recent-calls) |
 ## Geometry
 |  |
@@ -413,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0535-encode-and-decode-tinyurl) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
