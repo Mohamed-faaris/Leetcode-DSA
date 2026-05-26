@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1635-number-of-good-pairs](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1635-number-of-good-pairs) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2139-detect-squares](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2139-detect-squares) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2390-naming-a-company](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2390-naming-a-company) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1197-parsing-a-boolean-expression](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1197-parsing-a-boolean-expression) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2390-naming-a-company](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2390-naming-a-company) |
 | [2465-shifting-letters-ii](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2465-shifting-letters-ii) |
