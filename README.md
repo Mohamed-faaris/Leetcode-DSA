@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1635-number-of-good-pairs](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1635-number-of-good-pairs) |
+| [1677-matrix-diagonal-sum](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1833-find-the-highest-altitude](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1833-find-the-highest-altitude) |
 | [1972-rotating-the-box](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1972-rotating-the-box) |
 | [2139-detect-squares](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2139-detect-squares) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0794-swim-in-rising-water) |
+| [1677-matrix-diagonal-sum](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1972-rotating-the-box](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1972-rotating-the-box) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
