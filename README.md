@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2154-minimum-moves-to-convert-string](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2154-minimum-moves-to-convert-string) |
 | [2390-naming-a-company](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2390-naming-a-company) |
 | [2465-shifting-letters-ii](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2465-shifting-letters-ii) |
 | [2476-check-distances-between-same-letters](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2476-check-distances-between-same-letters) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0649-dota2-senate) |
 | [0917-boats-to-save-people](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0917-boats-to-save-people) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [2154-minimum-moves-to-convert-string](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2154-minimum-moves-to-convert-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2663-distribute-money-to-maximum-children](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2663-distribute-money-to-maximum-children) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/2715-k-items-with-the-maximum-sum) |
