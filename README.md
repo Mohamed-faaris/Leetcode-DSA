@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0725-split-linked-list-in-parts) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1484-linked-list-in-binary-tree) |
+| [1765-merge-in-between-linked-lists](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/1765-merge-in-between-linked-lists) |
 ## Math
 |  |
 | ------- |
