@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0027-remove-element) |
 | [0057-insert-interval](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0078-subsets) |
 | [0162-find-peak-element](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0078-subsets) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0342-power-of-four](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0461-hamming-distance) |
@@ -480,4 +482,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Mohamed-faaris/Leetcode-DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
